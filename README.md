@@ -1,2 +1,1 @@
-# NewRepoGB2
-NewRepoGB2
+hello
